@@ -1,0 +1,8 @@
+This is for Version 1.7.5 of UFO50, and will likely not work after future updates. 
+
+Pleas make sure to replace the text file 36_text with the one provied in this download. It can be found through 
+
+Steam > steamapps > common > UFO50 > ext > ENGLISH
+
+While the mod should still work without it, dialog will be unchanged.
+
